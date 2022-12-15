@@ -32,6 +32,46 @@
     <grapheme>重生</grapheme>
     <phoneme>chong 2 sheng 2</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>一重</grapheme>
+    <phoneme>yi 1 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>二重</grapheme>
+    <phoneme>er 4 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>三重</grapheme>
+    <phoneme>san 1 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>四重</grapheme>
+    <phoneme>si 4 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>五重</grapheme>
+    <phoneme>wu 3 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>六重</grapheme>
+    <phoneme>liu 4 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>七重</grapheme>
+    <phoneme>qi 1 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>八重</grapheme>
+    <phoneme>ba 1 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>九重</grapheme>
+    <phoneme>jiu 3 chong 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>十重</grapheme>
+    <phoneme>shi 2 chong 2</phoneme>
+  </lexeme>
   <!--D-->
   <!--E-->
   <!--F-->
@@ -115,5 +155,9 @@
     <lexeme>
     <grapheme>山长</grapheme>
     <phoneme>shan 1 zhang 3</phoneme>
+  </lexeme>
+    <lexeme>
+    <grapheme>重踏</grapheme>
+    <phoneme>zhong 4 ta 4</phoneme>
   </lexeme>
 </lexicon>
