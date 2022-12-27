@@ -145,7 +145,7 @@
   <lexeme>
     <grapheme>行了</grapheme>
     <phoneme>xing 2 le 5</phoneme>
-  </lexeme> 
+  </lexeme>
   <!--Y-->
   <!--Z-->
   <lexeme>
@@ -156,11 +156,15 @@
     <grapheme>长公主</grapheme>
     <phoneme>zhang 3 gong 1 zhu 3</phoneme>
   </lexeme>
-    <lexeme>
+  <lexeme>
     <grapheme>山长</grapheme>
     <phoneme>shan 1 zhang 3</phoneme>
   </lexeme>
-    <lexeme>
+  <lexeme>
+    <grapheme>道长</grapheme>
+    <phoneme>dao 4 zhang 3</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>重踏</grapheme>
     <phoneme>zhong 4 ta 4</phoneme>
   </lexeme>
