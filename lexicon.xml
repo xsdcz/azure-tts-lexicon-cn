@@ -105,6 +105,14 @@
     <grapheme>布行</grapheme>
     <phoneme>bu 4 hang 2</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>好武</grapheme>
+    <phoneme>hao 4 wu 3</phoneme>
+  </lexeme> 
+  <lexeme>
+    <grapheme>好武功</grapheme>
+    <phoneme>hao 3 wu 3 gong 1</phoneme>
+  </lexeme>
   <!--I-->
   <!--J-->
   <!--K-->
@@ -120,10 +128,14 @@
   <lexeme>
     <grapheme>大概率</grapheme>
     <phoneme>da 4 gai 4 lv 4</phoneme>
-  </lexeme>
+  </lexeme> 
   <lexeme>
     <grapheme>小概率</grapheme>
     <phoneme>xiao 3 gai 4 lv 4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>一死了之</grapheme>
+    <phoneme>yi 4 si 3 liao 3 zhi 1</phoneme>
   </lexeme>
   <!--M-->
   <lexeme>
